@@ -31,12 +31,12 @@ Collaborative Filtering (NMF, SVD)
 = UMAP visualization
 - Clustering (K-Means)
 # Models Used
-🔹 Content-Based Filtering
+Content-Based Filtering
 - Based on text similarity
-🔹 Collaborative Filtering
+Collaborative Filtering
 - NMF
 - SVD
-🔹 Hybrid Model
+Hybrid Model
 - Combines CF + CBF + NLP
 # Results
 - Hybrid model performs best

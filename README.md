@@ -32,7 +32,7 @@ Collaborative Filtering (NMF, SVD)
 - Clustering (K-Means)
 # Models Used
 🔹 Content-Based Filtering
-Based on text similarity
+- Based on text similarity
 🔹 Collaborative Filtering
 - NMF
 - SVD
